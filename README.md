@@ -1,1 +1,2 @@
+This repository contains projects and coursework completed throughout my Computer Science program at Southern New Hampshire University. The projects included demonstrate my skills in software development, software testing, quality assurance, object-oriented programming, debugging, and problem-solving using languages such as Java, C++, and Python. This portfolio showcases my growth as a software engineering student and highlights my experience designing, testing, and maintaining reliable software applications.
 # CS-320-Portfolio
